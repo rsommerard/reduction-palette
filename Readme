@@ -1,0 +1,5 @@
+Réduction de palette
+
+L’objectif de ce TP est d’écrire un programme qui, partant d’une image, produise
+l’image la plus ressemblante possible mais n’utilisant qu’un nombre réduit de
+couleurs différentes.
